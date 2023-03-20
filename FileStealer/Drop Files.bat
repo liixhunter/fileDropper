@@ -1,7 +1,7 @@
 ﻿@ECHO OFF
 REM  QBFC Project Options Begin
 REM  HasVersionInfo: No
-REM  Companyname: Waked xy
+REM  Companyname: Username
 REM  Productname: USB COPY 
 REM  Filedescription:Permet de copier toutes les  données d'un ordinateur sur un peripherique de stockage externe 
 REM  Copyrights: 
